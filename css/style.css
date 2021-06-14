@@ -1,0 +1,41 @@
+
+
+.navbar .heading {
+    color:white;
+    text-transform: uppercase;
+    line-height: 25px;
+    
+}
+
+.navnack {
+    background-color: CornflowerBlue;
+}
+
+
+.container-fluid table tr th {
+    padding: 25px;
+}
+
+.container-fluid table tr td {
+    padding: 25px;
+}
+
+.container-fluid table tr .confirmed {
+    color:red;
+}
+
+.container-fluid table tr .active {
+    color:blue;
+}
+
+.container-fluid table tr .recovered {
+    color:green;
+}
+
+.container-fluid table tr .deaths {
+    color:grey;
+}
+.table {
+    margin: auto;
+    width: 80% !important; 
+ }
